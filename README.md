@@ -29,3 +29,10 @@ Python, Pandas, SQLite, SQL, Matplotlib, Seaborn, Google Colab
 - Results show association, not cause.
 - The data looks synthetic, so patterns may not match real students.
 
+# Charts
+
+### Average score by daily study hours
+![Study hours chart](Average_Score_by_daily_hours.png)
+
+### Average score by attendance
+![Attendance chart](Avg_score_by_att.png)
